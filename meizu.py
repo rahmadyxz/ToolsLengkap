@@ -2,7 +2,7 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
-print ("\033[1;32matau silahkan Hubungi Mr.Edi ")
+print ("\033[1;32matau silahkan Hubungi MRR ")
 
 username = 'Rahmad'      
 
