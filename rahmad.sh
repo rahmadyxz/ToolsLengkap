@@ -13,7 +13,7 @@ echo
 clear
 echo
 echo $red"          Tool akan di install dalam waktu 5 detik"
-echo $red"   harap sabar menunggu yaa sayang :v maklum si mamad jomblo :("   
+echo $red"            harap sabar menunggu yaa sayang :v("   
 sleep 1
 echo '''\a
 \033[34;1m                              _
@@ -32,7 +32,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"                      harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[32;1m                             ____
@@ -51,7 +51,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"                      harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[35;1m                            _____
@@ -66,7 +66,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"                      harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[33;1m                            _  _
@@ -81,7 +81,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"                      harap sabar menunggu yaa sayang :v"
+echo $red"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[36;1m                             ____
@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ==================="
-echo $i"Ôûê"$pu"  AUTHOR  :  EDI & RAHMAD  "$i"             Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                   Ôûê"
 echo $i"Ôûê"$pu"  WhatsApp:  0887882xxxx"$i"                Ôûê"
 echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"    Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  Edi Garsell & YouTube RMD"$i"  Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                Ôûê"
 echo $pur"==================="$cy" ==================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -119,7 +119,7 @@ read -p"Ôò¦ÔöÇ>> " pil
 if [ $pil = 1 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/IlayTamvan/Report.git
 cd Report
@@ -130,7 +130,7 @@ fi
 if [ $pil = 2 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/fb-brute.git
 cd fb-brute
@@ -140,7 +140,7 @@ fi
 if [ $pil = 3 ]
 then
 clear
-figlet -f slant "W A I T C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/Fb-Cracker-v.3.git
 cd Fb-Cracker-v.3
@@ -150,7 +150,7 @@ fi
 if [ $pil = 4 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/Windows7.git
 cd Windows7
@@ -160,7 +160,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/YahooCloning.git
 cd YahooCloning
@@ -172,7 +172,7 @@ fi
 if [ $pil = 6 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/OSIF.git
 cd OSIF
@@ -183,7 +183,7 @@ fi
 if [ $pil = 7 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/profileguard.git
 cd profileguard
@@ -193,7 +193,7 @@ fi
 if [ $pil = 8 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/ROBOT.git
 cd ROBOT
@@ -203,7 +203,7 @@ fi
 if [ $pil = 9 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/Aditya021/SpamCall
 cd SpamCall
@@ -213,7 +213,7 @@ fi
 if [ $pil = 10 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/LITESPAM.git
 cd LITESPAM
@@ -223,7 +223,7 @@ fi
 if [ $pil = 11 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|lolcat
+figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/youtube.git
 cd youtube
@@ -234,7 +234,7 @@ fi
 if [ $pil = 12 ]
 then
 clear
-figlet -f slant "W A I T  C U K"|Ulolcat
+figlet -f slant "W A I T"|Ulolcat
 sleep 2
 echo $cy"Terima Kasih sudah mengunakan Tools ini"
 sleep 2
@@ -248,6 +248,6 @@ echo $ku"WhatsApp :"$i" 0887882xxxx"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"Tools Ini Dibuat Oleh Edi Dan Di Edit Oleh Rahmad"
+echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
 exit
 fi
