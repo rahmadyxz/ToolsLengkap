@@ -132,7 +132,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/fb-brute.git
+git clone https://github.com/IAmBlackHacker/Facebook-BruteForce.git
 cd fb-brute
 python2 brute.py
 fi
