@@ -133,8 +133,8 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/IAmBlackHacker/Facebook-BruteForce.git
-cd fb-brute
-python2 brute.py
+cd Facebook-BruteForce
+python3 fb.py
 fi
 
 if [ $pil = 3 ]
