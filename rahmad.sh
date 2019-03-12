@@ -132,9 +132,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/IAmBlackHacker/Facebook-BruteForce.git
-cd Facebook-BruteForce
-python3 fb.py
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
+cd multi-bruteforce-facebook
+python2 MBF.py
 fi
 
 if [ $pil = 3 ]
@@ -152,7 +152,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/Windows7.git
+git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
 cd Windows7
 python2 MBF.py
 fi
