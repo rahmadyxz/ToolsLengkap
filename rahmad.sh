@@ -132,9 +132,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
-python2 MBF.py
+git clone https://github.com/Senitopeng/fbbrute.git
+cd fbbrute
+python2 jomblo.py
 fi
 
 if [ $pil = 3 ]
