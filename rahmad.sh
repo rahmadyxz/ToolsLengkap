@@ -153,7 +153,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd Windows7
+cd multi-bruteforce-facebook
 python2 MBF.py
 fi
 
@@ -162,7 +162,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/YahooCloning.git
+git clone https://github.com/wahyuandhika/YahooCloning.git
 cd YahooCloning
 pip2 install requests mechanize
 pip2 install requirements
@@ -174,7 +174,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/OSIF.git
+git clone https://github.com/CiKu370/OSIF.git
 cd OSIF
 pip2 install -r requirements.txt
 python2 osif.py
@@ -185,9 +185,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/profileguard.git
-cd profileguard
-php guard.php
+git clone https://github.com/jaxBCD/FBshield.git
+cd FBshield
+python2 guard.py
 fi
 
 if [ $pil = 8 ]
@@ -225,10 +225,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/youtube.git
-cd youtube
-sh edi.sh
-sh polder.sh
+git clone https://github.com/rahmadxyz/sub-bot.git
+cd sub-bot
+php sub-bot.php
 fi
 
 if [ $pil = 12 ]
