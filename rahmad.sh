@@ -111,7 +111,8 @@ echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
 echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
 echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
-echo $i"["$me"12"$i"]"$ku" EXIT"
+echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
+echo $i"["$me"13"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
@@ -215,7 +216,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/edi-nasa12/LITESPAM.git
+git clone https://github.com/4L13199/LITESPAM.git
 cd LITESPAM
 sh LITESPAM.sh
 fi
@@ -231,6 +232,16 @@ php sub-bot.php
 fi
 
 if [ $pil = 12 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/thelinuxchoice/locator.git
+cd locator
+bash locator.sh
+fi
+
+if [ $pil = 13 ]
 then
 clear
 figlet -f slant "W A I T"|Ulolcat
