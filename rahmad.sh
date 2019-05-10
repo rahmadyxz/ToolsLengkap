@@ -92,12 +92,12 @@ echo '''\a
 sleep 1
 clear
 echo
-echo $pur"==================="$cy" ==================="
-echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                   Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  0887882xxxx"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"    Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                Ôûê"
-echo $pur"==================="$cy" ==================="
+echo $pur"==================="$cy" ============================="
+echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                    Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  0888099xxxxx"$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"     Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
+echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
 echo $ku"["$me"1"$ku"]"$i" REPORT FB"
@@ -112,7 +112,8 @@ echo $ku"["$me"9"$ku"]"$i" SPAM CALL"
 echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
-echo $i"["$me"13"$i"]"$ku" EXIT"
+echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
+echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
@@ -242,6 +243,17 @@ bash locator.sh
 fi
 
 if [ $pil = 13 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/N74NK/brutalsms.git
+cd brutalsms
+python2 brutalsms.py
+fi
+
+
+if [ $pil = 14 ]
 then
 clear
 figlet -f slant "W A I T"|Ulolcat
