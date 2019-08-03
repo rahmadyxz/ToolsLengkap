@@ -247,9 +247,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/N74NK/brutalsms.git
-cd brutalsms
-python2 brutalsms.py
+git clone https://github.com/TERMUXID3/brutal-sms
+cd brutal-sms
+python2 run.py
 fi
 
 
