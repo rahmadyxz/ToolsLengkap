@@ -207,9 +207,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Aditya021/SpamCall
-cd SpamCall
-php SpamCall.php
+git clone https://github.com/404rgr/spamerCALL
+cd spamerCALL
+python spamercall.py
 fi
 
 if [ $pil = 10 ]
