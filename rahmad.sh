@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  rahmadyxz  "$i"                  Ôûê"
+echo $i"Ôûê"$pu"  TIKTOK    :  rahmadyxz "$i"              Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  carstenvetter@outlook.com"$i"   Ôûê"
 echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @ardeaseptiaaani"$i"          Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  rahmadyxz"$i"               Ôûê"
+echo $i"Ôûê"$pu"  TELEGRAM  :  rahmadyxz"$i"          Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
