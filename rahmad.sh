@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  rahmadyxz  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  TIKTOK    :  rahmadyxz "$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  carstenvetter@outlook.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  rahmadyxz  "$i"               Ôûê"
+echo $i"Ôûê"$pu"  TIKTOK    :  rahmadyxz "$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  carstenvetter@outlook.com"$i" Ôûê"
 echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  rahmadyxz"$i"               Ôûê"
-echo $i"Ôûê"$pu"  TELEGRAM  :  rahmadyxz"$i"          Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  rahmadyxz"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  TELEGRAM  :  rahmadyxz"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -240,7 +240,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/rahmadxyz/seeker.py
-cd seeker
+cd seeker.py
 python seeker.py -t manual
 fi
 
@@ -266,9 +266,9 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"TikTok   :"$i" rahmadyxz"
+echo $ku"TikTok   :"$i" rahmadyxz  "
 echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"Telegram :"$i" rahmadyxz"
+echo $ku"Telegram :"$i" rahmadyxz  "
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
