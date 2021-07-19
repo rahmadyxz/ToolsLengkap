@@ -239,9 +239,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/thelinuxchoice/locator.git
-cd locator
-bash locator.sh
+git clone https://github.com/rahmadxyz/seeker.py
+cd seeker
+python seeker.py -t manual
 fi
 
 if [ $pil = 13 ]
