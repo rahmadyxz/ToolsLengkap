@@ -266,9 +266,9 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
+echo $ku"TikTok   :"$i" rahmadyxz"
 echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"Telegram :"$i" rahmadyxz"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
