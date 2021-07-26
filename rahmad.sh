@@ -239,7 +239,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/rahmadxyz/seeker.py
+git clone https://github.com/thewhiteh4t/seeker
 cd seeker.py
 python seeker.py -t manual
 fi
